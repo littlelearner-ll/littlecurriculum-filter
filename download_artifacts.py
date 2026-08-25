@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch the filter artifacts (~358 MB) from the Hugging Face Hub.
+"""Fetch the filter artifacts from the Hugging Face Hub.
 
     python download_artifacts.py
 
