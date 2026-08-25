@@ -1,0 +1,13 @@
+# Artifacts live on HuggingFace, not in git (model.safetensors is 299 MB,
+# over GitHub's 100 MB per-file limit). Fetch with download_artifacts.py
+/data
+/models
+
+# Secrets
+.env
+*.env
+!.env.example
+
+__pycache__/
+*.py[oc]
+.venv/

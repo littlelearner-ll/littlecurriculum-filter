@@ -1,0 +1,8 @@
+numpy
+pandas
+pyarrow
+wordfreq
+fasttext
+torch
+transformers
+datasets
